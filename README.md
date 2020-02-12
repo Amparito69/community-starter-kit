@@ -2,10 +2,12 @@
 
 DESCRIPTION PLACEHOLDER
 
+Vaya cacota
 ## What it does
 
 FEATURES PLACEHOLDER
 
+Haced un tutorial decente HP...
 ## Getting started
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
